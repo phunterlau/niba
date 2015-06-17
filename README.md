@@ -1,7 +1,7 @@
 # niba
-cat this cat in your bash_profile, Niba the cat is watching you!
+cat this cat in your bash_profile, Niba the cat is blessing you and your code!
 
-just add "cat niba.txt" to your .bash_profile or whatever profile/rc file for your bash.
+just add "cat niba.txt" to your .bash_profile or whatever profile/rc file for your bash. Please use xterm.
 
 ## preview
 ![Niba](preview.png)
